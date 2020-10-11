@@ -15,6 +15,7 @@ const NavStyled = styled.nav`
     padding: 0;
     text-align: center;
     list-style: none;
+    margin-top: -6rem;
 
     display: grid;
     grid-template-columns: 1fr 1fr auto 1fr 1fr;

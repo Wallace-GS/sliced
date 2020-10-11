@@ -5,7 +5,7 @@ export const Footer = () => {
 
   return (
     <footer>
-      <p>Handcrafted by me &copy; twentytwenty</p>
+      <p>Sliced Pizzeria &copy; twentytwenty</p>
     </footer>
   );
 };
