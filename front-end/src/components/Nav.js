@@ -17,10 +17,10 @@ export const Nav = () => {
           <Link to="/">LOGO</Link>
         </li>
         <li>
-          <Link to="/pizza">Slicemasters</Link>
+          <Link to="/slicemasters">Slicemasters</Link>
         </li>
         <li>
-          <Link to="/">Order Ahead!</Link>
+          <Link to="/order">Order Ahead!</Link>
         </li>
       </ul>
     </nav>
